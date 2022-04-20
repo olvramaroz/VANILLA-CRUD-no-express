@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Chanel",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "Paco Rabanne",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 59.99
+  },
+  {
+    "id": "3",
+    "name": "Dior",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 99.99
+  },
+  {
+    "id": "4",
+    "name": "Lancôme",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 39.99
+  },
+  {
+    "id": "5",
+    "name": "Guerlain",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "price": 49.99
+  }
+]
